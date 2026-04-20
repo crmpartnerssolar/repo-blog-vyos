@@ -67,7 +67,7 @@ meta:
 <h2>Comparison: absorption by MW fraction</h2>
 
 <table>
-<thead><tr><th>Fraction</th><th>Oral bioavailability</th><th>Typical use case</th></tr></thead>
+<thead><tr><th scope="col">Fraction</th><th scope="col">Oral bioavailability</th><th scope="col">Typical use case</th></tr></thead>
 <tbody>
 <tr><td>Oligo HA (&lt;20 kDa)</td><td>High</td><td>Research, specific signaling studies</td></tr>
 <tr><td>120 kDa (low MW)</td><td>Meaningfully absorbed</td><td>Oral joint support (clinically tested)</td></tr>

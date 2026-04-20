@@ -55,7 +55,7 @@ meta:
 <h2>Head-to-head comparison</h2>
 
 <table>
-<thead><tr><th>Parameter</th><th>Shellfish-derived</th><th>Plant-fermented (GlucosaGreen)</th></tr></thead>
+<thead><tr><th scope="col">Parameter</th><th scope="col">Shellfish-derived</th><th scope="col">Plant-fermented (GlucosaGreen)</th></tr></thead>
 <tbody>
 <tr><td>Source material</td><td>Crustacean exoskeletons</td><td>Corn glucose fermented by Aspergillus niger</td></tr>
 <tr><td>Glucosamine molecule</td><td>Identical</td><td>Identical</td></tr>

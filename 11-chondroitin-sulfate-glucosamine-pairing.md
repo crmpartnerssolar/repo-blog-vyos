@@ -73,7 +73,7 @@ meta:
 <h2>Common label problems</h2>
 
 <table>
-<thead><tr><th>Issue</th><th>What it means</th></tr></thead>
+<thead><tr><th scope="col">Issue</th><th scope="col">What it means</th></tr></thead>
 <tbody>
 <tr><td>"Chondroitin complex" without mg</td><td>Dose hidden, almost certainly sub-therapeutic</td></tr>
 <tr><td>Glucosamine HCl instead of sulfate</td><td>Weaker structural evidence base; sulfate is preferred</td></tr>

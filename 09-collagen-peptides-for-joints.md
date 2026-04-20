@@ -62,7 +62,7 @@ meta:
 <h2>Source: bovine, marine, porcine, eggshell</h2>
 
 <table>
-<thead><tr><th>Source</th><th>Type</th><th>Notable</th></tr></thead>
+<thead><tr><th scope="col">Source</th><th scope="col">Type</th><th scope="col">Notable</th></tr></thead>
 <tbody>
 <tr><td>Bovine hide / bone</td><td>Type I (mostly), some type III</td><td>Most common, best price-to-evidence ratio</td></tr>
 <tr><td>Marine (fish skin)</td><td>Type I</td><td>Smaller peptides typically, easier to formulate as flavorless powder</td></tr>

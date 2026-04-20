@@ -71,7 +71,7 @@ meta:
 <h2>How these branches differ in joint tissue</h2>
 
 <table>
-<thead><tr><th>Parameter</th><th>COX branch</th><th>5-LOX branch</th></tr></thead>
+<thead><tr><th scope="col">Parameter</th><th scope="col">COX branch</th><th scope="col">5-LOX branch</th></tr></thead>
 <tbody>
 <tr><td>End products</td><td>Prostaglandins, thromboxanes</td><td>Leukotrienes (LTB4, LTC4-E4)</td></tr>
 <tr><td>Main clinical effect in joint</td><td>Acute pain, swelling, heat</td><td>Neutrophil recruitment, chronic inflammation amplification</td></tr>

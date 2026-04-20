@@ -48,7 +48,7 @@ meta:
 <h2>The three inflection points</h2>
 
 <table>
-<thead><tr><th>Horizon</th><th>What changes</th><th>Dominant actives</th></tr></thead>
+<thead><tr><th scope="col">Horizon</th><th scope="col">What changes</th><th scope="col">Dominant actives</th></tr></thead>
 <tbody>
 <tr><td>Day 7-14</td><td>Morning stiffness, first-step comfort, subjective mobility</td><td>Boswellia AKBA, curcumin + piperine</td></tr>
 <tr><td>Day 21-30</td><td>Measurable WOMAC and Lequesne score changes in clinical trials</td><td>AKBA + curcumin (sustained), HA starts contributing</td></tr>

@@ -77,7 +77,7 @@ meta:
 <h2>Where supplements intervene in this system</h2>
 
 <table>
-<thead><tr><th>Intervention</th><th>Mechanism</th><th>Where it acts on MMP-13 axis</th></tr></thead>
+<thead><tr><th scope="col">Intervention</th><th scope="col">Mechanism</th><th scope="col">Where it acts on MMP-13 axis</th></tr></thead>
 <tbody>
 <tr><td>Curcumin (95% + piperine)</td><td>NF-kB modulation</td><td>Upstream: reduces transcription of MMP-13 and other NF-kB targets</td></tr>
 <tr><td>Boswellia 65% AKBA</td><td>5-LOX modulation</td><td>Upstream: reduces leukotriene-driven inflammation that feeds IL-1 and TNF-alpha</td></tr>

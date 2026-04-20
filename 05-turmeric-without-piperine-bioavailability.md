@@ -59,7 +59,7 @@ meta:
 <h2>Comparison: turmeric formats by bioavailability</h2>
 
 <table>
-<thead><tr><th>Format</th><th>Curcuminoid content</th><th>Oral bioavailability</th></tr></thead>
+<thead><tr><th scope="col">Format</th><th scope="col">Curcuminoid content</th><th scope="col">Oral bioavailability</th></tr></thead>
 <tbody>
 <tr><td>Culinary turmeric powder</td><td>2-5% curcuminoids</td><td>Negligible at practical dietary intake</td></tr>
 <tr><td>Standardized extract 95% (no enhancer)</td><td>95% curcuminoids</td><td>Low, rapid clearance</td></tr>

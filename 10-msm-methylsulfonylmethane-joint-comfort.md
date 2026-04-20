@@ -69,7 +69,7 @@ meta:
 <h2>Comparison: MSM in the inflammatory cascade</h2>
 
 <table>
-<thead><tr><th>Active</th><th>Mechanism specificity</th><th>Effect size in RCTs</th><th>Onset</th></tr></thead>
+<thead><tr><th scope="col">Active</th><th scope="col">Mechanism specificity</th><th scope="col">Effect size in RCTs</th><th scope="col">Onset</th></tr></thead>
 <tbody>
 <tr><td>Boswellia 65% AKBA</td><td>Selective 5-LOX modulation</td><td>Moderate to large</td><td>7-14 days</td></tr>
 <tr><td>Curcumin + piperine</td><td>NF-kB transcription</td><td>Moderate</td><td>4-8 weeks</td></tr>

@@ -80,7 +80,7 @@ meta:
 <h2>Head-to-head: what the comparison actually looks like</h2>
 
 <table>
-<thead><tr><th>Parameter</th><th>NSAIDs</th><th>Boswellia 65% AKBA</th></tr></thead>
+<thead><tr><th scope="col">Parameter</th><th scope="col">NSAIDs</th><th scope="col">Boswellia 65% AKBA</th></tr></thead>
 <tbody>
 <tr><td>Primary enzyme</td><td>COX-1 / COX-2</td><td>5-LOX</td></tr>
 <tr><td>Mediator blocked</td><td>Prostaglandins</td><td>Leukotrienes (esp. LTB4)</td></tr>

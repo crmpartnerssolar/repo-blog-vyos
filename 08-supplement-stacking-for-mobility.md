@@ -57,7 +57,7 @@ meta:
 <h2>Stack audit: complementary vs redundant</h2>
 
 <table>
-<thead><tr><th>Combination</th><th>Mechanism spread</th><th>Assessment</th></tr></thead>
+<thead><tr><th scope="col">Combination</th><th scope="col">Mechanism spread</th><th scope="col">Assessment</th></tr></thead>
 <tbody>
 <tr><td>Boswellia (AKBA) + curcumin + glucosamine + HA</td><td>4 nodes</td><td>Complementary. Each active hits a different node.</td></tr>
 <tr><td>Boswellia + willow bark + white peony</td><td>Overlapping inflammatory modulation</td><td>Partial overlap. Multiple anti-inflammatory herbs without structural component.</td></tr>

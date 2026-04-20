@@ -69,7 +69,7 @@ meta:
 <p>The exercise that produces joint benefit shares features:</p>
 
 <table>
-<thead><tr><th>Feature</th><th>What it looks like</th></tr></thead>
+<thead><tr><th scope="col">Feature</th><th scope="col">What it looks like</th></tr></thead>
 <tbody>
 <tr><td>Moderate intensity</td><td>RPE 4-7 out of 10, conversational pace</td></tr>
 <tr><td>Regular frequency</td><td>3-5 sessions per week, not weekend warrior pattern</td></tr>
