@@ -1,6 +1,6 @@
-# Blog articles · drafts for /blogs/research-journal
+# Blog articles · drafts for /blogs/journal
 
-This folder contains ready-to-publish blog drafts for the Vyos Clinical Journal (`/blogs/research-journal` on the storefront).
+This folder contains ready-to-publish blog drafts for the Vyos Clinical Journal (`/blogs/journal` on the storefront).
 
 ## How to publish each article
 

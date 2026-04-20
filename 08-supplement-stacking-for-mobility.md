@@ -43,16 +43,16 @@ meta:
 <p>A joint-support protocol that works addresses the system at multiple points. The four nodes with the strongest individual evidence base:</p>
 
 <h3>Node 1: 5-LOX (leukotriene synthesis)</h3>
-<p>Targeted by boswellia 65% AKBA. Modulates leukotriene B4 production, reducing neutrophil-driven inflammation amplification. Sengupta 2008 and related RCTs establish clinical relevance. See <a href="/blogs/research-journal/5-lox-vs-cox-2-inflammation-pathways-joints">the 5-LOX vs COX-2 article</a> for the pathway detail.</p>
+<p>Targeted by boswellia 65% AKBA. Modulates leukotriene B4 production, reducing neutrophil-driven inflammation amplification. Sengupta 2008 and related RCTs establish clinical relevance. See <a href="/blogs/journal/5-lox-vs-cox-2-inflammation-pathways-joints">the 5-LOX vs COX-2 article</a> for the pathway detail.</p>
 
 <h3>Node 2: NF-kB (inflammatory gene transcription)</h3>
-<p>Targeted by curcumin + piperine. Attenuates the transcription factor that drives IL-1, TNF-alpha, and MMP-13 gene expression. Daily 2016 meta-analysis establishes the aggregated effect size on joint function endpoints. See <a href="/blogs/research-journal/turmeric-without-piperine-bioavailability-problem">the curcumin + piperine article</a>.</p>
+<p>Targeted by curcumin + piperine. Attenuates the transcription factor that drives IL-1, TNF-alpha, and MMP-13 gene expression. Daily 2016 meta-analysis establishes the aggregated effect size on joint function endpoints. See <a href="/blogs/journal/turmeric-without-piperine-bioavailability-problem">the curcumin + piperine article</a>.</p>
 
 <h3>Node 3: Matrix synthesis</h3>
-<p>Targeted by plant-fermented glucosamine sulfate. Provides amino sugar building blocks for glycosaminoglycan and proteoglycan synthesis. Reginster 2001 and Pavelka 2002 establish 3-year structural signal. See <a href="/blogs/research-journal/plant-vs-shellfish-glucosamine-absorption">the plant glucosamine article</a>.</p>
+<p>Targeted by plant-fermented glucosamine sulfate. Provides amino sugar building blocks for glycosaminoglycan and proteoglycan synthesis. Reginster 2001 and Pavelka 2002 establish 3-year structural signal. See <a href="/blogs/journal/plant-vs-shellfish-glucosamine-absorption">the plant glucosamine article</a>.</p>
 
 <h3>Node 4: Synovial fluid quality</h3>
-<p>Targeted by hyaluronic acid at 120 kDa. Contributes to viscoelastic properties of synovial fluid and supports systemic HA turnover. Oe 2016 review consolidates oral HA clinical evidence. See <a href="/blogs/research-journal/hyaluronic-acid-molecular-weight-120-kda-joints">the HA 120 kDa article</a>.</p>
+<p>Targeted by hyaluronic acid at 120 kDa. Contributes to viscoelastic properties of synovial fluid and supports systemic HA turnover. Oe 2016 review consolidates oral HA clinical evidence. See <a href="/blogs/journal/hyaluronic-acid-molecular-weight-120-kda-joints">the HA 120 kDa article</a>.</p>
 
 <h2>Stack audit: complementary vs redundant</h2>
 
